@@ -6,4 +6,5 @@ Here, we have a dataset that contains 7500 transaction of all the different cust
 
 One of the most popular Association rule is Apriori algorithm. Applied apriori algorithm to this dataset and apriori model gave some relevant list of products as, “if customers buy this product then they are likely to buy the other set of products".
 This is exactly how apriori algorithm and association rule works.
+Assciation rule
  
