@@ -1,4 +1,4 @@
-# Association-Rule-Learning
+# Association Rule Learning Algorithm for optimization the sell of the products.
 Suppose a big store owner wants to optimize the sell of the products.
 For this type of problems we can apply Association Rule Learning to know where to place the product perfectly in the store.
 The main idea of this Association rule is " People who brought this also brought that ".
